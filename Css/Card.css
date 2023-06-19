@@ -1,0 +1,17 @@
+
+.card-container {
+    display: flex;
+    margin-left: 200px;
+    margin-block: 76px;
+    
+  }
+  
+  .card {
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+  }
+  .card-text{
+    font-weight: bold;
+
+  }
